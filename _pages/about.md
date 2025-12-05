@@ -14,7 +14,7 @@ redirect_from:
 
 Hi! I'm **Jingru Fan** 👋, a first-year PhD student at **Shanghai Jiao Tong University**, fortunate to be guided by **Prof. Chen Qian**, whose passion, insight, and encouragement have greatly strengthened my confidence in my research journey. I also intern at **THUNLP**, where the guidance from **Prof. Huimin Chen** and **Dr. Weize Chen** has been invaluable to my growth and exploration in research.
 
-## 🎯 Research Interests
+## 🎨 Research Interests
 
 My research focuses on **LLM-based autonomous agents** and **multi-agent systems**, with an emphasis on capability emergence, self-evolution, and robust reasoning across diverse scenarios. I also draw inspiration from cognitive science, social science, and other interdisciplinary fields to explore more principled mechanisms for agent behavior and the formation of collective intelligence.
 
