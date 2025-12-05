@@ -55,7 +55,8 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: 16px; // 比$type-size-7大约11px大4px，约15-16px
+  padding-left: 2em; // 距离左边有一定距离，保持美观
 }
 
 .page__footer-follow {

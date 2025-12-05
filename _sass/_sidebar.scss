@@ -138,6 +138,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: 16px; // 比根字体小2px
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -235,6 +236,7 @@
 
   li {
     white-space: nowrap;
+    font-size: 16px; // 比根字体小2px
   }
 
   a {
@@ -244,7 +246,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 16px; // 比根字体小2px
     text-decoration: none;
 
     &:hover {
