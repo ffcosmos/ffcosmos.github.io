@@ -28,9 +28,9 @@ I love **music**, **photography**, **boxing**, and **exploring natural spots**! 
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉 Our work [**Multi-Agent Collaboration via Evolving Orchestration**](https://arxiv.org/abs/2505.19591) is accepted at [**NeurIPS 2025**].
+- *2025.09*: &nbsp;🎉 Our work [**Multi-Agent Collaboration via Evolving Orchestration**](https://arxiv.org/abs/2505.19591) is accepted at **NeurIPS 2025**.
 - *2025.09*: &nbsp;📄 Our technical report about [**GUI Agent**](https://arxiv.org/abs/2509.02444) is released on arXiv.
-- *2025.05*: &nbsp;🎉 Our paper [**AgentRM**](https://arxiv.org/abs/2502.18407) is accepted by [**ACL 2025**].
+- *2025.05*: &nbsp;🎉 Our paper [**AgentRM**](https://arxiv.org/abs/2502.18407) is accepted by **ACL 2025**.
 
 <span class='anchor' id='publications'></span>
 
