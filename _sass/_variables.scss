@@ -94,9 +94,9 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : #6B9BD1; // 莫兰迪湖蓝色
+$link-color-hover           : #5A8BC4; // 悬停时稍深
+$link-color-visited         : #8BB3D9; // 访问过的链接稍浅
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
