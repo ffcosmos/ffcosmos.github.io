@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingru Fan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student at Shanghai Jiao Tong University"
+  bio              : "PhD Student @ Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   research_interests: "Autonomous Agents with LLM, Multi-Agent Systems"

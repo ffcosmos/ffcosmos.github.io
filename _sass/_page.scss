@@ -25,6 +25,7 @@
 
   .page__inner-wrap {
     @include full();
+    padding-bottom: 4em; // 确保内容不被页脚遮挡
 
     .page__content,
     .page__meta,
