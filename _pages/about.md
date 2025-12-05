@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm **Jingru Fan** 👋, a first-year Ph.D. student at **Shanghai Jiao Tong University**, fortunate to be guided by **Prof. Chen Qian**, whose passion, insight, and encouragement have greatly strengthened my confidence in my research journey. I also intern at **THUNLP**, where the guidance from **Prof. Huimin Chen** and **Dr. Weize Chen** has been invaluable to my growth and exploration in research.
+Hi! I'm **Jingru Fan** 👋, a first-year PhD student at **Shanghai Jiao Tong University**, fortunate to be guided by **Prof. Chen Qian**, whose passion, insight, and encouragement have greatly strengthened my confidence in my research journey. I also intern at **THUNLP**, where the guidance from **Prof. Huimin Chen** and **Dr. Weize Chen** has been invaluable to my growth and exploration in research.
 
 ## 🎯 Research Interests
 
