@@ -14,15 +14,15 @@ redirect_from:
 
 Hi! I'm **Jingru Fan** 👋
 
-I'm currently a first-year Ph.D. student at **Shanghai Jiao Tong University**, fortunate to supervised by **Prof. Chen Qian**, who is passionate and full of innovative ideas in research. I'm also honored to be an intern at **THUNLP**, where I continue to explore and grow under the guidance of **Prof. Huimin Chen** and **Dr. Weize Chen**.
+I'm a first-year Ph.D. student at **Shanghai Jiao Tong University**, fortunate to be guided by **Prof. Chen Qian**, whose passion, insight, and encouragement have greatly strengthened my confidence in my research journey. I also intern at **THUNLP**, where the guidance from **Prof. Huimin Chen** and **Dr. Weize Chen** has been invaluable to my growth and exploration in research.
 
 ## 🎯 Research Interests
 
-My research focuses on **autonomous agents with LLM** and **multi-agent systems**, aiming to enable agents to think autonomously, collaborate, and make decisions like humans. Beyond that, I'm also deeply interested in **Computational Social Science** and **AI4Innovation**, and I'm fascinated by fields such as **sociology, psychology, and cognitive science**. I believe that true breakthroughs in empowering intelligence often lie at the intersection of disciplines, where countless unexplored possibilities await discovery.
+My research focuses on **LLM-based autonomous agents** and **multi-agent systems**, with an emphasis on capability emergence, self-evolution, and robust reasoning across diverse scenarios. I also draw inspiration from cognitive science, social science, and other interdisciplinary fields to explore more principled mechanisms for agent behavior and the formation of collective intelligence.
 
 ## 💫 Life Interests
 
-I enjoy **music**, **singing**, **photography**, **boxing** and **traveling to natural environments**. I also have a completely black cat 🐈‍⬛ (just like the GitHub icon!).
+I love **music**, **photography**, **boxing**, and **exploring natural spots**! I also have an all-black cat 🐈‍⬛ （just like the GitHub icon!）
 
 <span class='anchor' id='news'></span>
 
