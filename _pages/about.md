@@ -47,6 +47,6 @@ I love **music**, **photography**, **boxing**, and **exploring natural spots**! 
 
 <span class='anchor' id='internships'></span>
 
-# 💻 Internships
+# 💻 Internship
 
 - *2024.06 - Present*: Research Intern at **THUNLP**
